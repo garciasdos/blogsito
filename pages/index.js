@@ -26,18 +26,22 @@ const Home = () => {
             bgClip="text"
             fontWeight="extrabold"
             fontSize={"3xl"}
+            textAlign={{ base: "left" }}
           >
             Hello! <WavingHandIcon fontSize="3xl" /> I'm Diego García. I'm
             (mainly) a Software Developer who believes that things can really be
             done right <PartyingFace />
           </Text>
-          <Text fontSize={{ base: "3xl", md: "2xl" }}>
+          <Text fontSize={{ base: "2xl", md: "2xl" }}>
             I enjoy programming and I try to demonstrate it in the code I write.
             I'm a big fan of terms like <Text as="b">DDD</Text>,{" "}
             <Text as="b">CQRS</Text>, <Text as="b">Event Sourcing</Text>... But
             always taking into account if it really makes sense in the given
-            scenario. For that, in my opinion it's essential to work hand in
-            hand with the Product people (
+            scenario.
+          </Text>
+          <Text fontSize={{ base: "2xl", md: "2xl" }}>
+            For that, in my opinion it's essential to work hand in hand with the
+            Product people (
             <Text as="i">
               here I should write words like <Text as="b">Agile</Text>,{" "}
               <Text as="b">SCRUM</Text>... or whatever methodology that
