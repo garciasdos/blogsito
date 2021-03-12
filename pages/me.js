@@ -63,27 +63,32 @@ const Me = () => {
                 <ListItem>...</ListItem>
               </UnorderedList>
             </Text>
-            <Text fontSize={{ base: "xl", md: "2xl" }}>
-              In terms of architecture, I have learned some things about
-              Hexagonal Architecture, SOLID Principles, TDD, Domain Driven
-              Design, CQRS and Event Sourcing... experiencing almost all of them
-              in production environments, and understanding both their benefits
-              and pains. I'd like to write something about this some day!
-            </Text>
-            <Text width="100%" fontSize={{ base: "xl", md: "2xl" }}>
-              You can read more info about me at my{" "}
-              <Link
-                isExternal={true}
-                href="https://www.linkedin.com/in/diego-garcia-garcia/"
-              >
-                LinkedIn
-              </Link>{" "}
-              or{" "}
-              <Link isExternal={true} href="https://github.com/garciasdos">
-                Github
-              </Link>{" "}
-              pages.
-            </Text>
+            <Box width="100%">
+              <Text fontSize={{ base: "xl", md: "2xl" }}>
+                In terms of architecture, I have learned some things about
+                Hexagonal Architecture, SOLID Principles, TDD, Domain Driven
+                Design, CQRS and Event Sourcing... experiencing almost all of
+                them in production environments, and understanding both their
+                benefits and pains. I'd like to write something about this some
+                day!
+              </Text>
+            </Box>
+            <Box width="100%">
+              <Text fontSize={{ base: "xl", md: "2xl" }}>
+                You can read more info about me at my{" "}
+                <Link
+                  isExternal={true}
+                  href="https://www.linkedin.com/in/diego-garcia-garcia/"
+                >
+                  LinkedIn
+                </Link>{" "}
+                or{" "}
+                <Link isExternal={true} href="https://github.com/garciasdos">
+                  Github
+                </Link>{" "}
+                pages.
+              </Text>
+            </Box>
           </VStack>
         </VStack>
       </Center>
