@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Image, Text, VStack } from "@chakra-ui/react";
+import { Box, Image, Text, VStack } from "@chakra-ui/react";
 import Head from "next/head";
 import WavingHandIcon from "../components/icons/HandShaking";
 import PartyingFace from "../components/icons/PartyingFace";

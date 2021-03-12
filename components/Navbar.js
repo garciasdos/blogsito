@@ -1,4 +1,4 @@
-import { Flex, HStack, Link, Text } from "@chakra-ui/layout";
+import { HStack, Link } from "@chakra-ui/layout";
 
 function Navbar() {
   return (
