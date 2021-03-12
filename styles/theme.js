@@ -2,7 +2,8 @@ import { extendTheme } from "@chakra-ui/react";
 
 const Link = {
   baseStyle: {
-    // color: "purple.500",
+    color: "#FF0080",
+    fontWeight: "bold",
   },
 };
 

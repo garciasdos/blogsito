@@ -11,7 +11,7 @@ function Navbar() {
       >
         Diego
       </Link>
-      <Link fontWeight="extrabold" href="/posts">
+      <Link fontWeight="extrabold" href="/me" color="black">
         My stuff
       </Link>
     </HStack>
