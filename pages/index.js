@@ -9,6 +9,12 @@ const Home = () => {
       <Head>
         <title>Diego García</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:type" content="website" />
+        <meta property="twitter:creator" content="@dgarcias156" />
+        <meta
+          property="og:image"
+          content="https://pbs.twimg.com/profile_images/1267532857926389765/RYIFz5qv_400x400.jpg"
+        />
       </Head>
       <Center>
         <VStack p={10} spacing={10} maxW={{ base: "100%", lg: "75%" }}>
@@ -20,7 +26,6 @@ const Home = () => {
               alt="Diego García"
             />
           </Box>
-
           <Text
             bgGradient="linear(to-l, #7928CA,#FF0080)"
             bgClip="text"
