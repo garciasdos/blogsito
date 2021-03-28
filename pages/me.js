@@ -20,7 +20,14 @@ const Me = () => {
     <>
       <Head>
         <title>Diego García | About Me</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon/favicon.ico" />
+        <meta
+          property="og:description"
+          content="Who am I? What am I interested in?"
+        />
+        <meta property="og:type" content="website" />
+        <meta property="twitter:creator" content="@dgarcias156" />
+        <meta property="og:image" content="/avatar.png" />
       </Head>
       <Center>
         <VStack p={10} spacing={10} maxW={{ base: "100%", lg: "75%" }}>

@@ -9,13 +9,16 @@ const Home = () => {
     <>
       <Head>
         <title>Diego García</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon/favicon.ico" />
+        <meta
+          property="og:description"
+          content="Hello! I'm Diego García. I'm
+            (mainly) a Software Developer who believes that things can really be
+            done right"
+        />
         <meta property="og:type" content="website" />
         <meta property="twitter:creator" content="@dgarcias156" />
-        <meta
-          property="og:image"
-          content="https://pbs.twimg.com/profile_images/1267532857926389765/RYIFz5qv_400x400.jpg"
-        />
+        <meta property="og:image" content="/avatar.png" />
       </Head>
       <Center>
         <VStack p={10} spacing={10} maxW={{ base: "100%", lg: "75%" }}>
