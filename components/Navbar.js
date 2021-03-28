@@ -1,13 +1,14 @@
-import { HStack, Link } from "@chakra-ui/layout";
+import { HStack } from "@chakra-ui/layout";
+import Link from "./Link";
 
 function Navbar() {
   return (
     <HStack spacing={3} px={10} py={3} boxShadow={"sm"}>
       <Link
+        href="/"
         bgGradient="linear(to-l, #7928CA,#FF0080)"
         bgClip="text"
         fontWeight="extrabold"
-        href="/"
       >
         Diego
       </Link>

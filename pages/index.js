@@ -1,7 +1,8 @@
-import { Box, Center, Image, Link, Text, VStack } from "@chakra-ui/react";
+import { Box, Center, Image, Text, VStack } from "@chakra-ui/react";
 import Head from "next/head";
 import WavingHandIcon from "../components/icons/HandShaking";
 import PartyingFace from "../components/icons/PartyingFace";
+import Link from "../components/Link";
 
 const Home = () => {
   return (
