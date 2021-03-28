@@ -22,7 +22,7 @@ const Home = () => {
             <Image
               borderRadius="full"
               boxSize="150px"
-              src="https://pbs.twimg.com/profile_images/1267532857926389765/RYIFz5qv_400x400.jpg"
+              src="/avatar.png"
               alt="Diego García"
             />
           </Box>
