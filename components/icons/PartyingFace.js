@@ -246,8 +246,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(34.3014 27.6832) scale(36.7656)"
         >
-          <stop stop-color="#FFE030" />
-          <stop offset="1" stop-color="#FFB92E" />
+          <stop stopColor="#FFE030" />
+          <stop offset="1" stopColor="#FFB92E" />
         </radialGradient>
         <radialGradient
           id="paint1_radial"
@@ -257,8 +257,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(34.3014 27.6832) scale(28.9251)"
         >
-          <stop stop-color="#FFEA5F" />
-          <stop offset="1" stop-color="#FFBC47" stop-opacity="0" />
+          <stop stopColor="#FFEA5F" />
+          <stop offset="1" stopColor="#FFBC47" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="paint2_linear"
@@ -268,8 +268,8 @@ function PartyingFace(props) {
           y2="26.9015"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#7A4400" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#7A4400" />
         </linearGradient>
         <linearGradient
           id="paint3_linear"
@@ -279,8 +279,8 @@ function PartyingFace(props) {
           y2="26.9006"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#7A4400" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#7A4400" />
         </linearGradient>
         <radialGradient
           id="paint4_radial"
@@ -290,10 +290,10 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(17.4132 20.3184) rotate(-45.5348) scale(23.3841 9.60696)"
         >
-          <stop stop-color="#EB672A" stop-opacity="0.5" />
-          <stop offset="0.3025" stop-color="#E36521" stop-opacity="0.3422" />
-          <stop offset="0.7868" stop-color="#CC600A" stop-opacity="0.0897045" />
-          <stop offset="0.9589" stop-color="#C25E00" stop-opacity="0" />
+          <stop stopColor="#EB672A" stopOpacity="0.5" />
+          <stop offset="0.3025" stopColor="#E36521" stopOpacity="0.3422" />
+          <stop offset="0.7868" stopColor="#CC600A" stopOpacity="0.0897045" />
+          <stop offset="0.9589" stopColor="#C25E00" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint5_radial"
@@ -303,10 +303,10 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(23.6815 47.616) rotate(-2.7703) scale(12.819 10.143)"
         >
-          <stop stop-color="#FF4C00" />
-          <stop offset="0.1995" stop-color="#F94C0E" stop-opacity="0.8005" />
-          <stop offset="0.7145" stop-color="#EC4A2E" stop-opacity="0.2855" />
-          <stop offset="1" stop-color="#E74A3A" stop-opacity="0" />
+          <stop stopColor="#FF4C00" />
+          <stop offset="0.1995" stopColor="#F94C0E" stopOpacity="0.8005" />
+          <stop offset="0.7145" stopColor="#EC4A2E" stopOpacity="0.2855" />
+          <stop offset="1" stopColor="#E74A3A" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint6_radial"
@@ -316,9 +316,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(56.6198 57.0298) rotate(-0.40159) scale(20.3819 4.6267)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint7_radial"
@@ -328,8 +328,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(36.3788 55.7751) rotate(4.55396) scale(7.19701 5.08873)"
         >
-          <stop stop-color="white" stop-opacity="0.75" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="white" stopOpacity="0.75" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="paint8_linear"
@@ -339,8 +339,8 @@ function PartyingFace(props) {
           y2="55.4789"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#512D00" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#512D00" />
         </linearGradient>
         <linearGradient
           id="paint9_linear"
@@ -350,8 +350,8 @@ function PartyingFace(props) {
           y2="60.7917"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF40BF" />
-          <stop offset="0.8932" stop-color="#7000A3" />
+          <stop stopColor="#FF40BF" />
+          <stop offset="0.8932" stopColor="#7000A3" />
         </linearGradient>
         <linearGradient
           id="paint10_linear"
@@ -361,8 +361,8 @@ function PartyingFace(props) {
           y2="57.0087"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.2544" stop-color="#D1F2FF" />
-          <stop offset="1" stop-color="#17BBFE" />
+          <stop offset="0.2544" stopColor="#D1F2FF" />
+          <stop offset="1" stopColor="#17BBFE" />
         </linearGradient>
         <linearGradient
           id="paint11_linear"
@@ -372,10 +372,10 @@ function PartyingFace(props) {
           y2="45.7927"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#7000A3" stop-opacity="0" />
-          <stop offset="0.2242" stop-color="#530078" stop-opacity="0.2242" />
-          <stop offset="0.5925" stop-color="#260038" stop-opacity="0.5925" />
-          <stop offset="0.8613" stop-color="#0B000F" stop-opacity="0.8613" />
+          <stop stopColor="#7000A3" stopOpacity="0" />
+          <stop offset="0.2242" stopColor="#530078" stopOpacity="0.2242" />
+          <stop offset="0.5925" stopColor="#260038" stopOpacity="0.5925" />
+          <stop offset="0.8613" stopColor="#0B000F" stopOpacity="0.8613" />
           <stop offset="1" />
         </linearGradient>
         <linearGradient
@@ -387,11 +387,11 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
         >
           <stop />
-          <stop offset="0.1488" stop-color="#27002D" />
-          <stop offset="0.4631" stop-color="#760086" />
-          <stop offset="0.7193" stop-color="#B000C7" />
-          <stop offset="0.9045" stop-color="#D300F0" />
-          <stop offset="1" stop-color="#E100FF" />
+          <stop offset="0.1488" stopColor="#27002D" />
+          <stop offset="0.4631" stopColor="#760086" />
+          <stop offset="0.7193" stopColor="#B000C7" />
+          <stop offset="0.9045" stopColor="#D300F0" />
+          <stop offset="1" stopColor="#E100FF" />
         </linearGradient>
         <linearGradient
           id="paint13_linear"
@@ -402,11 +402,11 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
         >
           <stop />
-          <stop offset="0.1488" stop-color="#27002D" />
-          <stop offset="0.4631" stop-color="#760086" />
-          <stop offset="0.7193" stop-color="#B000C7" />
-          <stop offset="0.9045" stop-color="#D300F0" />
-          <stop offset="1" stop-color="#E100FF" />
+          <stop offset="0.1488" stopColor="#27002D" />
+          <stop offset="0.4631" stopColor="#760086" />
+          <stop offset="0.7193" stopColor="#B000C7" />
+          <stop offset="0.9045" stopColor="#D300F0" />
+          <stop offset="1" stopColor="#E100FF" />
         </linearGradient>
         <linearGradient
           id="paint14_linear"
@@ -416,10 +416,10 @@ function PartyingFace(props) {
           y2="44.712"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#7000A3" />
-          <stop offset="0.4469" stop-color="#A900D2" />
-          <stop offset="0.8117" stop-color="#D200F2" />
-          <stop offset="1" stop-color="#E100FF" />
+          <stop stopColor="#7000A3" />
+          <stop offset="0.4469" stopColor="#A900D2" />
+          <stop offset="0.8117" stopColor="#D200F2" />
+          <stop offset="1" stopColor="#E100FF" />
         </linearGradient>
         <linearGradient
           id="paint15_linear"
@@ -429,8 +429,8 @@ function PartyingFace(props) {
           y2="55.2627"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#512D00" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#512D00" />
         </linearGradient>
         <radialGradient
           id="paint16_radial"
@@ -440,8 +440,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(52.9829 52.1146) rotate(-8.28692) scale(11.0217 1.22912)"
         >
-          <stop stop-color="white" stop-opacity="0.5" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="white" stopOpacity="0.5" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint17_radial"
@@ -451,8 +451,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(70.361 43.6091) rotate(77.7176) scale(5.54615 1.24116)"
         >
-          <stop stop-color="white" stop-opacity="0.5" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="white" stopOpacity="0.5" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="paint18_linear"
@@ -462,8 +462,8 @@ function PartyingFace(props) {
           y2="20.1898"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.2544" stop-color="#D1F2FF" />
-          <stop offset="1" stop-color="#17BBFE" />
+          <stop offset="0.2544" stopColor="#D1F2FF" />
+          <stop offset="1" stopColor="#17BBFE" />
         </linearGradient>
         <linearGradient
           id="paint19_linear"
@@ -473,8 +473,8 @@ function PartyingFace(props) {
           y2="25.5705"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF40BF" />
-          <stop offset="0.7456" stop-color="#7000A3" />
+          <stop stopColor="#FF40BF" />
+          <stop offset="0.7456" stopColor="#7000A3" />
         </linearGradient>
         <linearGradient
           id="paint20_linear"
@@ -484,8 +484,8 @@ function PartyingFace(props) {
           y2="17.4808"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF40BF" />
-          <stop offset="0.7456" stop-color="#7000A3" />
+          <stop stopColor="#FF40BF" />
+          <stop offset="0.7456" stopColor="#7000A3" />
         </linearGradient>
         <linearGradient
           id="paint21_linear"
@@ -495,8 +495,8 @@ function PartyingFace(props) {
           y2="10.9754"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF40BF" />
-          <stop offset="0.7456" stop-color="#7000A3" />
+          <stop stopColor="#FF40BF" />
+          <stop offset="0.7456" stopColor="#7000A3" />
         </linearGradient>
         <radialGradient
           id="paint22_radial"
@@ -506,8 +506,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(8.49277 16.9167) rotate(65.3021) scale(12.647 3.11471)"
         >
-          <stop stop-color="#440063" stop-opacity="0.75" />
-          <stop offset="1" stop-color="#420061" stop-opacity="0" />
+          <stop stopColor="#440063" stopOpacity="0.75" />
+          <stop offset="1" stopColor="#420061" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint23_radial"
@@ -517,8 +517,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(14.0325 11.1614) rotate(31.2018) scale(12.6468 3.11512)"
         >
-          <stop stop-color="white" stop-opacity="0.5" />
-          <stop offset="1" stop-color="white" stop-opacity="0" />
+          <stop stopColor="white" stopOpacity="0.5" />
+          <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint24_radial"
@@ -528,8 +528,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(18.1242 27.5642) rotate(30.2004) scale(15.606 15.8898)"
         >
-          <stop stop-color="#440063" stop-opacity="0.75" />
-          <stop offset="1" stop-color="#420061" stop-opacity="0" />
+          <stop stopColor="#440063" stopOpacity="0.75" />
+          <stop offset="1" stopColor="#420061" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint25_radial"
@@ -539,8 +539,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(28.5848 37.8158) rotate(175.474) scale(4.70179 3.33396)"
         >
-          <stop offset="0.00132565" stop-color="#7A4400" />
-          <stop offset="1" stop-color="#643800" />
+          <stop offset="0.00132565" stopColor="#7A4400" />
+          <stop offset="1" stopColor="#643800" />
         </radialGradient>
         <linearGradient
           id="paint26_linear"
@@ -550,8 +550,8 @@ function PartyingFace(props) {
           y2="37.016"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#512D00" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#512D00" />
         </linearGradient>
         <radialGradient
           id="paint27_radial"
@@ -561,8 +561,8 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(52.0077 37.8157) rotate(4.52557) scale(4.70179 3.33396)"
         >
-          <stop offset="0.00132565" stop-color="#7A4400" />
-          <stop offset="1" stop-color="#643800" />
+          <stop offset="0.00132565" stopColor="#7A4400" />
+          <stop offset="1" stopColor="#643800" />
         </radialGradient>
         <linearGradient
           id="paint28_linear"
@@ -572,8 +572,8 @@ function PartyingFace(props) {
           y2="37.0159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.00132565" stop-color="#3C2200" />
-          <stop offset="1" stop-color="#512D00" />
+          <stop offset="0.00132565" stopColor="#3C2200" />
+          <stop offset="1" stopColor="#512D00" />
         </linearGradient>
         <linearGradient
           id="paint29_linear"
@@ -583,8 +583,8 @@ function PartyingFace(props) {
           y2="58.5833"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF40BF" />
-          <stop offset="0.8932" stop-color="#7000A3" />
+          <stop stopColor="#FF40BF" />
+          <stop offset="0.8932" stopColor="#7000A3" />
         </linearGradient>
         <radialGradient
           id="paint30_radial"
@@ -594,9 +594,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(25.4276 20.1193) scale(68.6114)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint31_radial"
@@ -606,9 +606,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(20.5621 13.7082) rotate(0.0419929) scale(93.3525 93.2905)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint32_radial"
@@ -618,9 +618,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(28.6657 17.2382) scale(68.6115)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint33_radial"
@@ -630,9 +630,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(28.6657 17.2384) scale(68.6115)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint34_radial"
@@ -642,9 +642,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(28.6657 17.2381) scale(68.6115)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint35_radial"
@@ -654,9 +654,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(21.2181 18.286) scale(68.6115)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint36_radial"
@@ -666,9 +666,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(28.6655 17.2383) scale(68.6118 68.6115)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint37_radial"
@@ -678,9 +678,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(31.1419 14.1431) scale(68.6115 68.6112)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <radialGradient
           id="paint38_radial"
@@ -690,9 +690,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(24.4618 27.3772) rotate(-28.5684) scale(94.9673 94.8887)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="paint39_linear"
@@ -702,8 +702,8 @@ function PartyingFace(props) {
           y2="30.6745"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF9214" />
-          <stop offset="1" stop-color="#FF4E0D" />
+          <stop stopColor="#FF9214" />
+          <stop offset="1" stopColor="#FF4E0D" />
         </linearGradient>
         <linearGradient
           id="paint40_linear"
@@ -713,8 +713,8 @@ function PartyingFace(props) {
           y2="21.8981"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#80DAFE" />
-          <stop offset="1" stop-color="#008EE6" />
+          <stop stopColor="#80DAFE" />
+          <stop offset="1" stopColor="#008EE6" />
         </linearGradient>
         <linearGradient
           id="paint41_linear"
@@ -724,8 +724,8 @@ function PartyingFace(props) {
           y2="16.8881"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFCB4B" />
-          <stop offset="1" stop-color="#E81CA2" />
+          <stop stopColor="#FFCB4B" />
+          <stop offset="1" stopColor="#E81CA2" />
         </linearGradient>
         <linearGradient
           id="paint42_linear"
@@ -735,8 +735,8 @@ function PartyingFace(props) {
           y2="16.4561"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FBE07A" />
-          <stop offset="1" stop-color="#E81CA2" />
+          <stop stopColor="#FBE07A" />
+          <stop offset="1" stopColor="#E81CA2" />
         </linearGradient>
         <linearGradient
           id="paint43_linear"
@@ -746,8 +746,8 @@ function PartyingFace(props) {
           y2="16.1686"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#80DAFE" />
-          <stop offset="1" stop-color="#008EE6" />
+          <stop stopColor="#80DAFE" />
+          <stop offset="1" stopColor="#008EE6" />
         </linearGradient>
         <linearGradient
           id="paint44_linear"
@@ -757,8 +757,8 @@ function PartyingFace(props) {
           y2="32.717"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFCB4B" />
-          <stop offset="1" stop-color="#E81CA2" />
+          <stop stopColor="#FFCB4B" />
+          <stop offset="1" stopColor="#E81CA2" />
         </linearGradient>
         <linearGradient
           id="paint45_linear"
@@ -768,8 +768,8 @@ function PartyingFace(props) {
           y2="46.3979"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.2544" stop-color="#9F00E8" />
-          <stop offset="1" stop-color="#7000A3" />
+          <stop offset="0.2544" stopColor="#9F00E8" />
+          <stop offset="1" stopColor="#7000A3" />
         </linearGradient>
         <linearGradient
           id="paint46_linear"
@@ -779,8 +779,8 @@ function PartyingFace(props) {
           y2="40.8493"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#80DAFE" />
-          <stop offset="1" stop-color="#008EE6" />
+          <stop stopColor="#80DAFE" />
+          <stop offset="1" stopColor="#008EE6" />
         </linearGradient>
         <linearGradient
           id="paint47_linear"
@@ -790,8 +790,8 @@ function PartyingFace(props) {
           y2="58.8834"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF9214" />
-          <stop offset="1" stop-color="#FF4E0D" />
+          <stop stopColor="#FF9214" />
+          <stop offset="1" stopColor="#FF4E0D" />
         </linearGradient>
         <linearGradient
           id="paint48_linear"
@@ -801,8 +801,8 @@ function PartyingFace(props) {
           y2="21.1521"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FBE07A" />
-          <stop offset="1" stop-color="#E81CA2" />
+          <stop stopColor="#FBE07A" />
+          <stop offset="1" stopColor="#E81CA2" />
         </linearGradient>
         <radialGradient
           id="paint49_radial"
@@ -812,9 +812,9 @@ function PartyingFace(props) {
           gradientUnits="userSpaceOnUse"
           gradientTransform="translate(8.30806 50.5101) scale(32.404)"
         >
-          <stop stop-color="#7A4400" stop-opacity="0.5" />
-          <stop offset="0.5833" stop-color="#894D00" stop-opacity="0.2069" />
-          <stop offset="0.995" stop-color="#975500" stop-opacity="0" />
+          <stop stopColor="#7A4400" stopOpacity="0.5" />
+          <stop offset="0.5833" stopColor="#894D00" stopOpacity="0.2069" />
+          <stop offset="0.995" stopColor="#975500" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="paint50_linear"
@@ -824,9 +824,9 @@ function PartyingFace(props) {
           y2="78.6053"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F78174" />
-          <stop offset="0.3893" stop-color="#8800C7" />
-          <stop offset="1" stop-color="#3640FF" />
+          <stop stopColor="#F78174" />
+          <stop offset="0.3893" stopColor="#8800C7" />
+          <stop offset="1" stopColor="#3640FF" />
         </linearGradient>
       </defs>
     </Icon>
